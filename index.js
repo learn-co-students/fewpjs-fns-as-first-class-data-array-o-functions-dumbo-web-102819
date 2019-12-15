@@ -37,11 +37,11 @@ function wakeDog(dogName, dogBreed) {
       unleashDog
   ]
 
-  function exerciseDog(dogName, dogBreed) {
-    routine.forEach(function(dogName, dogBreed) {
-        console.log(dogName, dogBreed);
+//   function exerciseDog(dogName, dogBreed) {
+//     routine.forEach(function(dogName, dogBreed) {
+//         console.log(dogName, dogBreed);
      
-  }
+//   }
 
 
 
