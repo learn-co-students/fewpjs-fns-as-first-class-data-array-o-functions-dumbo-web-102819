@@ -85,7 +85,7 @@ The function's implementation should
 * Call each function in the array and
 * pass the `dogName` and `dogBreed` received by `exerciseDog()` to the function as they are _called_
 * capture the result of each function's call
-* return an `Array` of all those functions' return values
+* return an `Array` of all those return values
 
 ## Conclusion
 
